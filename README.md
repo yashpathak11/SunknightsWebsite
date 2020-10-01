@@ -9,7 +9,7 @@ https://creativecommons.org/licenses/by-nc/3.0/
 ## Install Instructions
 
 #### If you have bash
-  1. bash install.sh
+  1. bash install.sjj
 
 #### If you don't have bash
   1. pip3 install -r requirements.txt --user
